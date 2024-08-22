@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Resultados"> 🚀 Direto ao ponto </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Resultados"> 🚀 Conquistas | Achievements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Referência"> 🌍 Referência </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Creditos"> 🏆 Créditos </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
@@ -26,7 +26,7 @@
 <br/>
 
 <a id="Conquistas"></a>
-## 🎖️ Conquistas no GitHub
+## 🚀 Conquistas no GitHub
 
 As conquistas, ou *Achievements*, no GitHub são uma forma de reconhecer e valorizar os usuários por suas atividades e contribuições na plataforma. Elas servem como uma representação visual do envolvimento e impacto de um usuário na comunidade GitHub.
 
@@ -47,25 +47,19 @@ As conquistas são como troféus digitais que destacam marcos importantes, como:
 
 Cada conquista possui critérios específicos que precisam ser atendidos para que o emblema seja desbloqueado. Esses emblemas são exibidos no seu perfil do GitHub, oferecendo uma visão sobre a sua experiência e compromisso com a plataforma.
 
-### Exemplos de Conquistas
-
-- **First Commit:** Premia o seu primeiro commit em um repositório.
-- **Top Contributor:** Reconhece as contribuições significativas e frequentes para projetos populares.
-
-Explore o GitHub e descubra como você pode alcançar essas conquistas. Se houver erros ou se você tiver sugestões para melhorar este guia, por favor, me avise. Vamos juntos explorar e conquistar todos esses troféus! :)
 
 <br/>
 
 
 <a id="Resultados"></a>
-## 🚀 Direto ao ponto 
+## 🎖️ Conquistas (Achievements)
 
  <br/>
 
 
 | Título | Emblema | Pode ser ganho? | Ganhou por |
 | --- | --- | --- | --- |
-Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ❌ | Reaja no GitHub com um emote de ❤️ (Em testes).r
+Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ❌ | Reaja no GitHub com um emote de ❤️ (Em testes).
 Open Sourcerer | ![Open Sourcerer Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/open-sourcerer-default.png) | ❌ | Ter múltiplos PRs mergeados em múltiplos repositórios públicos (Em testes).
 ||| <!-- Linha de divisão -->
 Pair Extraordinaire | ![Pair Extraordinaire Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png) | ✔️ |[Coautoria](https://docs.github.com/pt/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) em uma solicitação pull mesclada, esse é bem simples, no entanto acredito que vai ser mais facil de entender vendo esse [video](https://youtu.be/G36D8fE4Pzo?t=601), o video não é meu, mas funciona e achei bem simples.
@@ -89,7 +83,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 <br/>
     
   * [GitHub Profile Achievements trophy](https://github.com/github-profile-achievements/portuguese)
-  * [Canal Vivendo de tecnologia Youtube ➜ COMO GANHAR ACHIEVEMENTS (CONQUISTAS) NO GITHUB
+  * [Canal Vivendo de Tecnologia - Youtube ➜ COMO OBTER TODAS AS ACHIEVEMENTS (CONQUISTAS) NO GITHUB
  ](https://www.youtube.com/@Vivendodetecnologia)
 
 <br/>
@@ -117,5 +111,5 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=500&color=gradient&text=Input%20text&fontAlign=54"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontAlign=54&reversal=true"/>
 
