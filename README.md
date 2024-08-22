@@ -97,7 +97,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 
 <div > 
 
-| [<img src="https://avatars.githubusercontent.com/u/106314155?v=4" width=300><br><sub> Maycon Coutinho </sub>]("https://github.com/GustavoMalimpensa/Achievements-Conquistas---Github") | ***E aiiii, gostou?*** 😃  ***Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal dar uma estrela e me seguir para novos projetos? *** 😁 | 
+| [<img src="https://avatars.githubusercontent.com/u/106314155?v=4" width=300><br><sub> Maycon Coutinho </sub>]("https://github.com/GustavoMalimpensa/Achievements-Conquistas---Github") | E aiiii, gostou?*** 😃 <br/> ***Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal dar uma estrela e me seguir para novos projetos? 😁 | 
 |---|---|
 
 
@@ -106,7 +106,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 <br/>
 
 
-  ### ⠀⠀⠀⠀[⭐ Instagram ](https://www.instagram.com/gustavo_malimpensa/)⠀⠀⠀⠀[🧙 GitHub ](https://github.com/GustavoMalimpensa)
+  ### ⠀⠀⠀⠀[🔱 Instagram ](https://www.instagram.com/gustavo_malimpensa/)⠀⠀⠀⠀[😺 GitHub ](https://github.com/GustavoMalimpensa) [🟦 Linkdin ](https://www.linkedin.com/in/gustavo-malimpensa/)⠀[⭐ Tiktok ](https://www.tiktok.com/@gustavomalimpensa)⠀[🔥 Hotmart ](https://go.hotmart.com/L93915730C?dp=1)⠀
 
 
 <br/>
