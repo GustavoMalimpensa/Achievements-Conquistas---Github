@@ -83,8 +83,8 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 <br/>
     
   * [GitHub Profile Achievements trophy](https://github.com/github-profile-achievements/portuguese)
-  * [Canal Vivendo de Tecnologia - Youtube ➜ COMO OBTER TODAS AS ACHIEVEMENTS (CONQUISTAS) NO GITHUB
- ](https://www.youtube.com/@Vivendodetecnologia)
+  * [Canal Vivendo de Tecnologia - Youtube ➜ COMO CONQUISTAR OS EMBLEMAS DO GITHUB
+ ](https://www.youtube.com/watch?v=YoU43nMU6oc)
 
 <br/>
 
