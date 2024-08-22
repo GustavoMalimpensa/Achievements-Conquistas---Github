@@ -97,7 +97,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 
 <div > 
 
-| [<img src="https://avatars.githubusercontent.com/u/106314155?v=4" width=300><br><sub> Maycon Coutinho </sub>]("https://github.com/GustavoMalimpensa/Achievements-Conquistas---Github") | E aiiii, gostou? 😃 <br/> Se você chegou até aqui, acredito que gostou do meu projeto,eu também haha. Sendo assim, que tal dar uma estrela e me seguir para novos projetos? 😁 | 
+| [<img src="https://avatars.githubusercontent.com/u/106314155?v=4" width=300><br><sub> Gustavo Malimpensa </sub>]("https://github.com/GustavoMalimpensa/Achievements-Conquistas---Github") | E aiiii, gostou? 😃 <br/> Se você chegou até aqui, acredito que gostou do meu projeto,eu também haha. Sendo assim, que tal dar uma estrela e me seguir para novos projetos? 😁 | 
 |---|---|
 
 
@@ -113,3 +113,4 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontAlign=54&reversal=true"/>
 
+ <!-- Meus agradecimentos ao Maycon Coutinho, peguei um trecho do código dele - s2  -->
